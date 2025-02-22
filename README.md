@@ -11,5 +11,5 @@ Currently, I'm working on learning in the MOOC spatial data science by Esri.
 -I'm learning spatial data science in Esri.com
 
 📫 How to Reach Me
--https://www.linkedin.com/in/david-araque-lavalle-926b72164/
+-https://www.linkedin.com/in/davidaraquelavalle/
 -https://github.com/DavidAraque292
