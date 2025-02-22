@@ -5,10 +5,9 @@ I am passionate about mass transport, smart cities, data analysis and spatial da
 Currently, I'm working on learning in the MOOC spatial data science by Esri.
 
 🔭 I’m Currently Working On
--Developing my final project of the course data analysis and visualization
-
+-Working as CTO on Aether
 🌱 I’m Learning
--I'm learning spatial data science in Esri.com
+-I'm learning machine learning techniques
 
 📫 How to Reach Me
 -https://www.linkedin.com/in/davidaraquelavalle/
